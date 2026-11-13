@@ -1,5 +1,5 @@
 {
-  description = "H.Bin 的公开 Nix 工具库：Rust/Tauri 项目的开发环境与打包封装、项目模板";
+  description = "H.Bin 的公开 Nix 工具库";
 
   outputs = { self }: {
     lib = {
